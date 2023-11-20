@@ -1,2 +1,2 @@
 Service; Version; EOL-Date
-RDS-Mysql; 5.6l 12-31-2022
+RDS-Mysql; 5.6; 12-31-2022
