@@ -7,7 +7,7 @@ def lambda_handler(event, context):
     github_url = "https://raw.githubusercontent.com/sbpath/AED/main/eol-file.txt"
 
     # S3 bucket and object key where you want to store the file
-    s3_bucket = "aed-618828439365"
+    s3_bucket = "aed-093201192219"
     s3_key = "eol-file.txt"
 
     # Temporary file to store the downloaded content
