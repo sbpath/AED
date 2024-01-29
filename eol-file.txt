@@ -1,2 +1,7 @@
 Service; Version; EOL-Date
-RDS-Mysql; 5.6; 12-31-2022
+rds;mysql-5.7.37;02-29-2024
+rds;aurora-mysql-5.7.mysql_aurora.2.11.3;10-31-2024
+eks;1.24;01-31-2024
+eks;1.25;05-01-2024
+lambda;python3.8;10-14-2024
+lambda;nodejs16.x;06-12-2024
